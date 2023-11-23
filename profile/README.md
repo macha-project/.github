@@ -1,4 +1,4 @@
-# 👀🔉 MACHA 
+# 👀🔉 MACHA-project (쉽고 편한 막차 앱)
 ![마차](https://github.com/macha-project/.github/assets/106470291/fa4fd758-dab5-48f1-a626-b45e4f0c070e)
 
 ### 🔧 개발 배경 및 목적
