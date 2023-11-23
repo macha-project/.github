@@ -18,7 +18,7 @@
 
 
 
-### 🎉  See Your Sound App 실행 순서
+### 🎉  macha App 실행 순서
 0. repository clone - client
 ```shell
 git clone https://github.com/sunwoopia/macha_client.git
