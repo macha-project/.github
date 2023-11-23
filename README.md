@@ -35,16 +35,16 @@ git clone https://github.com/sunwoopia/macha-server.git
 1. 💥 도승준
 
 - Position : 팀장
-- Github: <https://github.com/minsang22>
-- Email : nornen20@kookmin.ac.kr
+- Github: <https://github.com/kmu20203059>
+- Email : robin1415@kookmin.ac.kr
 - Role
   - 모델 개발 및 서빙
 
 2. 🌖 김선우
 
 - Position : 팀원
-- Github: <https://github.com/scy6500>
-- Email : scy6500@kookmin.ac.kr
+- Github: <https://github.com/sunwoopia>
+- Email : sunrain1223@gmail.com
 - Role
   - 서버 개발 및 모델 개발
 
@@ -59,15 +59,17 @@ git clone https://github.com/sunwoopia/macha-server.git
 4. 😫 한준교
 
 - Position : 팀원
-- Github: <https://github.com/youngseok0>
-- Email : kys030908@kookmin.ac.kr
+- Github: <https://github.com/Ready-Bridge>
+- Email : hanjungyo5533@gmail.com
+
 - Role
   - 모델 개발 및 서빙
 
 5. 🫨 정찬우
 
 - Position : 팀원
-- Github: <https://github.com/syngrxm>
-- Email : 5luck21948@kookmin.ac.kr
+- Github: <https://github.com/chanwoo000>
+- Email : chanwoo0607@naver.com
+
 - Role
   - 서버 개발
