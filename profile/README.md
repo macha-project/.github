@@ -73,3 +73,5 @@ git clone https://github.com/sunwoopia/macha-server.git
 
 - Role
   - 서버 개발
+ 
+## Client, Server에 각각 README 구현
